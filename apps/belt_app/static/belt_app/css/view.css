@@ -1,0 +1,16 @@
+
+#main_container{
+    width: 970px;
+    margin: 0 auto;
+}
+#logout{
+    margin-left: 899px;
+    display:inline-block;
+}
+#return{
+    margin-left: 717px;
+    display:inline-block;
+}
+#leave{
+    margin-left: 5px;
+}

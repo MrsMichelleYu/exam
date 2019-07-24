@@ -1,0 +1,21 @@
+
+#main_container{
+    width: 970px;
+    margin: 0 auto;
+}
+#logout{
+    margin-left: 828px;
+}
+#create_trip{
+    margin-left: 828px;
+}
+.col{
+    height: 1000px;
+}
+.messages{
+    color: red;
+}
+#descripion {
+    overflow: auto; 
+    height: 200px;
+}
